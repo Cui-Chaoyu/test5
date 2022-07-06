@@ -14,6 +14,7 @@
 # limitations under the License.
 
 
+import sklearn
 import sys
 import os
 import warnings
